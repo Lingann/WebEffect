@@ -1,0 +1,9 @@
+body {
+    background: #000000;
+}
+.icon {
+    background:  url("../img/user.png");
+}
+.main-nav {
+    color: red;
+}
